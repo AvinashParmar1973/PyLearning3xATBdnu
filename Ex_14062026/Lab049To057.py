@@ -56,3 +56,65 @@ match browser:
         print("FF code executed!")
     case _:
         print("No browser Found!")
+
+
+# ex01_June/ex_14062024/Lab054.py
+# Functions
+# Python is all about the functions
+# A - Chat
+# built in
+# print, max, min, len, range, input, type, id,
+# lower, sqr, avh, cube, reversed, upper
+
+
+# user defined functions
+
+# syntax to create own out function -
+# defined
+# calling it
+
+#defined
+def greet(): # A-Z, a-z, 0-9 with Alpa)
+    print("Hello, How are you?")
+
+# Call
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+greet()
+
+# ex01_June/ex_14062024/Lab055.py
+def greet():
+    print("Code to be executed")
+    print("Hi")
+    print("Bye")
+
+greet()
+greet()
+
+# ex01_June/ex_14062024/Lab056.py
+# pass some information to the f(n)
+
+def greet(name):  # name - parameter or argument
+    print("Hi, How are you", name)
+
+
+greet("Pramod")
+greet("Amit")
+greet("123")
+greet(123)
+
+# ex01_June/ex_14062024/Lab057.py
+# blank
