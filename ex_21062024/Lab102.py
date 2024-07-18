@@ -5,6 +5,7 @@ my_dict['w'] = 32
 my_dict['c'] = 11
 my_dict['d'] = 19
 my_dict['x'] = 12
+my_dict['Y'] = 13
 print(my_dict)
 
 for k,v in my_dict.items():
